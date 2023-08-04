@@ -9,7 +9,7 @@
 
 ## Overview
 
-![Screenshot 2023-08-04 163416](https://github.com/bibek-bhusal03/Whatsapp-clone/assets/120349016/173d2e2d-9387-43ea-a029-ab3b9271589e)
+![image](https://github.com/bibek-bhusal03/Whatsapp-clone/assets/120349016/c44fb3c0-bb4d-4d4f-b077-aeb05a1805a4)
 ![Screenshot 2023-08-04 172616](https://github.com/bibek-bhusal03/Whatsapp-clone/assets/120349016/254cb804-6270-4b50-9cf7-bb93138d2ffb)
 
 - Building the whatsapp clone was enlightening in many ways.
@@ -29,6 +29,10 @@
 
 ## Contact
 
-[![LinkedIn](https://www.svgrepo.com/show/448234/linkedin.svg)](https://www.linkedin.com/in/bibekbhusal1/)
-[![Twitter](https://www.svgrepo.com/show/508974/twitter-2.svg)](https://twitter.com/bibekbhsl)
-[![Instagram](https://www.svgrepo.com/show/521711/instagram.svg)](https://www.instagram.com/bibek_bhusal_/)
+[![LinkedIn]()]()
+[![Twitter]()]()
+[![Instagram]()]()
+
+<a href="https://twitter.com/bibekbhsl"><img src="https://www.svgrepo.com/show/508974/twitter-2.svg" alt="Twitter" width="32"/></a>
+<a href="https://www.linkedin.com/in/bibekbhusal1/"><img src="https://www.svgrepo.com/show/448234/linkedin.svg" alt="LinkedIn" width="32"/></a>
+<a href="https://www.instagram.com/bibek_bhusal_/"><img src="https://www.svgrepo.com/show/521711/instagram.svg" alt="Instagram" width="32"/></a>
