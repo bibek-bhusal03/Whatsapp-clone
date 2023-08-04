@@ -9,7 +9,7 @@
 
 ## Overview
 
-![image](https://github.com/bibek-bhusal03/Whatsapp-clone/assets/120349016/c44fb3c0-bb4d-4d4f-b077-aeb05a1805a4)
+![image](https://github.com/bibek-bhusal03/Whatsapp-clone/assets/120349016/79fa8d18-b0de-427d-967a-978a8810996e)
 ![Screenshot 2023-08-04 172616](https://github.com/bibek-bhusal03/Whatsapp-clone/assets/120349016/254cb804-6270-4b50-9cf7-bb93138d2ffb)
 
 - Building the whatsapp clone was enlightening in many ways.
