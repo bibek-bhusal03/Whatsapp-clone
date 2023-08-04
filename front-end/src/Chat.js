@@ -53,7 +53,7 @@ useEffect(() => {
       </div>
  <div className="chat__body">
   {messages.map(message => (
-  <p key={message.key} className={`chat__message ${true && "chat__reciever"}`}>
+  <p key={message.key} className={`chat__message ${message.received && "chat__reciever"}`}>
     <span className='chat__name'>{message.name}</span> 
     {message.message}
     
