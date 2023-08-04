@@ -29,10 +29,6 @@
 
 ## Contact
 
-[![LinkedIn](https://www.svgrepo.com/show/448234/linkedin.svg)]
-[![Twitter](https://www.svgrepo.com/show/508974/twitter-2.svg)]
-[![Instagram](https://www.svgrepo.com/show/521711/instagram.svg)]
-
-[Twitter]: https://twitter.com/bibekbhsl
-[LinkedIn]: https://www.linkedin.com/in/bibekbhusal1/
-[Instagram]: https://www.instagram.com/bibek_bhusal_/
+[![LinkedIn](https://www.svgrepo.com/show/448234/linkedin.svg)](https://www.linkedin.com/in/bibekbhusal1/)
+[![Twitter](https://www.svgrepo.com/show/508974/twitter-2.svg)](https://twitter.com/bibekbhsl)
+[![Instagram](https://www.svgrepo.com/show/521711/instagram.svg)](https://www.instagram.com/bibek_bhusal_/)
